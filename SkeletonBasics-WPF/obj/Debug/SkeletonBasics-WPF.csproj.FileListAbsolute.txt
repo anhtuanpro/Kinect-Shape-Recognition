@@ -1,0 +1,44 @@
+C:\Users\olive\Downloads\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\olive\Downloads\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\olive\Downloads\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\olive\Downloads\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\olive\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\App.g.cs
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3135481\My Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\olive\Documents\GitHub\Kinect-Shape-Recognition\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\olive\Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\olive\Documents\Visual Studio 2015\Projects\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
